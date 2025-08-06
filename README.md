@@ -26,7 +26,7 @@
 ---
 
 ## 🎬 Demo – Silent Installation on Android 15
-![Demo](./1.gif)
+![Demo](./demo.gif)
 > 📲 APK installs silently on Android 15 (August 2025 patch)  
 > Appears as "System Update" with no permission prompts shown to user.  
 > Bypasses Play Protect and runs persistently after install.
