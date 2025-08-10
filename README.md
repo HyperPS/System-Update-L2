@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Level 3 Highlights (August 2025 Release)
+## 🔥 Level 2 Highlights (August 2025 Release)
 
 - ✅ Persistent foreground service with stealthy "System Update" disguise  
 - 🔐 AES-128 encrypted TCP communication with secure reconnection logic  
